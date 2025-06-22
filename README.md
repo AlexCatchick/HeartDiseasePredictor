@@ -42,3 +42,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 ## 📁 Files
 - `Heart_Disease_Prediction_Project_Final.ipynb`: Full notebook including EDA, modeling, evaluation, and prediction
 - `heart_disease_data.csv`: Input dataset
+
+## Access Link 
+- [Click here](https://colab.research.google.com/drive/17Yq1ei26tCWAkdqwB4Af1IUuLJmfS0Xy?usp=sharing) to use ```.ipynb file``` with dataset in **google colab**
